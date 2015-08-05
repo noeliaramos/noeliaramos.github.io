@@ -26,15 +26,17 @@ h3 {
  font-size: 1.5em;
  text-align: justify;
 }
-a:link {
-color: #E65C8A;
-font-family: 'Quicksand', sans-serif;
-font-size: 1.5em;
-text-align: center;
+nav a {
+   text-align: center;
+   font-family: 'Quicksand', sans-serif;
+   color: #E65C8A;
+   font-size: 1.5em;
+   text-decoration: none;
 }
-a:visited {
+nav a:visited {
 color: #FF9999;
 }
-a:hover {
+nav a:hover {
 color: #FFFF66;
 }
+
