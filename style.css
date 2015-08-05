@@ -27,8 +27,9 @@ h3 {
  text-align: justify;
 }
 a:link {
-color: #FF4D94;
+color: #E65C8A;
 font-family: 'Quicksand', sans-serif;
+text-align: center;
 }
 a:visited {
 color: #FF9999;
