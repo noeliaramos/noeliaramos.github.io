@@ -26,3 +26,12 @@ h3 {
  font-size: 1.5em;
  text-align: justify;
 }
+a:link {
+color: #FFCCCC;
+}
+a:visited {
+color: #FF9999;
+}
+a:hover {
+color: #FFFF66;
+}
