@@ -29,12 +29,9 @@ h3 {
 nav a {
    text-align: right;
    font-family: 'Quicksand', sans-serif;
-   color: #E65C8A;
+   color: #C2A3FF;
    font-size: 1.5em;
    text-decoration: none;
-   background-color: #CCFFCC;
-   border-radius: 2px;
-   padding: 6px;
 }
 nav a:visited {
 color: #FF9999;
