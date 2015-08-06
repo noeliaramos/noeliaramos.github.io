@@ -5,12 +5,12 @@ body{
    background-attachment: fixed;
    background-repeat: no-repeat;
    background-size: cover;
-   color: #F0FFF0;
+   color: #D6D633;
    font-family: 'Open Sans Condensed', sans-serif;
   }
   
 h1 {
- color: #D6D633;
+ color: #B2B2CC;
  font-family: 'Open Sans Condensed', sans-serif;
  font-size: 10em;
  text-align: center;
