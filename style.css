@@ -49,3 +49,59 @@ img {
 #intro {
    font-size:24px;
 }
+
+}
+
+body {
+
+margin: 0;
+
+}
+
+section a{
+
+color: #FFF;
+
+border: 1px solid #fff;
+
+padding: 20px;
+
+text-decoration: none;
+
+}
+
+section {
+
+position: relative;
+
+}
+
+section a {
+
+width: 300px;
+
+height: 25px;
+
+padding: 20px;
+
+position: absolute;
+
+top: 50%;
+
+left: 50%;
+
+margin: -32px 0 0 -170px;
+
+}
+
+div {
+
+height: 350px;
+
+}
+
+Video {
+
+Width: 100%:
+
+}
