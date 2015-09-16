@@ -33,10 +33,13 @@
 .jumbotron p {
   font-size: 20px;
   color: #fff;
+  font-family: 'Pontano Sans', sans-serif;
 }
 
 .learn-more {
   background-color: #CCE6FF;
+  font-family: 'Pontano Sans', sans-serif;
+  color: #3366FF;
 }
 
 h2 {
