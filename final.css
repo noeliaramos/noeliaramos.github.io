@@ -27,6 +27,7 @@
   font-size: 48px;  
   font-family: 'Poiret One', cursive;
   font-weight: bold;
+  text-align: right;
 }
 
 .jumbotron p {
@@ -40,12 +41,14 @@
 
 h2 {
   font-family: 'Poiret One', cursive;
+  color: 3366FF;
 }
 
 .learn-more h3 {
   font-family: 'Poiret One', cursive;
   font-size: 20px;
   font-weight: bold;
+  text-align: right;
 }
 
 .learn-more a {
