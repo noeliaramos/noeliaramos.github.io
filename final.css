@@ -11,8 +11,7 @@
 }
 
 .jumbotron {
-  background-image:url
-  ('https://images.unsplash.com/photo-1422565096762-bdb997a56a84?q=80&fm=jpg&s=bdf07effc2f127f10732d45040619aff');
+  background-image:url('https://images.unsplash.com/photo-1422565096762-bdb997a56a84?q=80&fm=jpg&s=bdf07effc2f127f10732d45040619aff');
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
